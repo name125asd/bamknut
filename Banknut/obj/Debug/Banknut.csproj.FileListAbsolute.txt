@@ -1,0 +1,8 @@
+C:\Users\MaMeaw\source\repos\Banknut\Banknut\obj\Debug\Banknut.csproj.AssemblyReference.cache
+C:\Users\MaMeaw\source\repos\Banknut\Banknut\obj\Debug\Banknut.csproj.SuggestedBindingRedirects.cache
+C:\Users\MaMeaw\source\repos\Banknut\Banknut\obj\Debug\Banknut.csproj.CoreCompileInputs.cache
+C:\Users\MaMeaw\source\repos\Banknut\Banknut\bin\Debug\Banknut.exe.config
+C:\Users\MaMeaw\source\repos\Banknut\Banknut\bin\Debug\Banknut.exe
+C:\Users\MaMeaw\source\repos\Banknut\Banknut\bin\Debug\Banknut.pdb
+C:\Users\MaMeaw\source\repos\Banknut\Banknut\obj\Debug\Banknut.exe
+C:\Users\MaMeaw\source\repos\Banknut\Banknut\obj\Debug\Banknut.pdb
